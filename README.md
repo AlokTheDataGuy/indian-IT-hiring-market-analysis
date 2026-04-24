@@ -98,7 +98,7 @@ I am explicitly **not** trying to prove that any one of these is *the* cause. Th
 
 I'm a data analyst based in Bengaluru, currently job-searching. This project started as an attempt to understand my own situation and grew into a broader investigation. If you're hiring for product analytics or data analyst roles at Indian startups, I'd love to talk.
 
-**Contact:** [your email] · [your LinkedIn]
+**Contact:** [alokdeep9925@gmail.com] · [www.linkedin.com/in/alokthedataguy]
 
 ## Acknowledgments
 
